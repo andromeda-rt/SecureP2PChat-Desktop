@@ -1,0 +1,5 @@
+5esv2x2lmreqd47belofmtgjq6zq5aitcwire7s7yfo3xxjsecycipad.onion     -----> server semnalizare
+
+descarcati tor si doar lasatil pornit
+pentru tor pornit din consola sau terminal portul este 9050 din tor browser port este 9150
+
