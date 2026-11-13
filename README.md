@@ -1,3 +1,7 @@
+<img width="532" height="830" alt="image" src="https://github.com/user-attachments/assets/7e3069ae-6657-44ca-bdea-e016c8fda624" />  <img width="1366" height="927" alt="image" src="https://github.com/user-attachments/assets/46118cb8-f792-40b8-a314-fcddf80a44ce" />
+
+
+
 # Arhitectura Criptografică și Diagramarea Aplicației Desktop Python (SecureP2PChat)
 
 Acest document reprezintă specificația tehnică oficială a aplicației **SecureP2PChat Desktop (Windows/Linux/macOS)** în Python. Conține toate diagramele **Mermaid** pentru modulele interne, bucla asincronă, stocarea în seiful criptat (Vault), transferurile media, interacțiunea cu releul și interoperabilitatea cu Android.
